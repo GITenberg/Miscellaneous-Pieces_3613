@@ -1,5 +1,5 @@
 _repo: Miscellaneous-Pieces_3613
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,6 +26,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'BR'
 - !lcsh 'Christianity'
+- GITenberg
 tableOfContents: Of the Trinity and a Christian -- Of the Law and a Christian -- Bunyan's
   Last Sermon -- Bunyan's Dying Sayings.
 title: Miscellaneous Pieces
